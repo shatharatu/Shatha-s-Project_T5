@@ -19,4 +19,5 @@ The “price” column will represent the target .
 
 # Tools :
 -Jupiter and excel will be used in the work.
+
 -Sklearn , panda , numpy , matplotlib and seaborn libraries will be used in the work.
